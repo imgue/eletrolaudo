@@ -1,0 +1,88 @@
+@media (max-width: 1399px) {
+  body {
+    text-align: center !important;
+    overflow-x: hidden !important;
+  }
+
+  h1 {
+    font-size: 40px;
+  }
+  h2 {
+    font-size: 28px;
+  }
+
+  h5 {
+    font-size: 18px;
+    line-height: 25px;
+  }
+
+  span {
+    letter-spacing: 10px;
+  }
+
+  .navbar {
+    display: none;
+  }
+
+  .coracao {
+    max-width: 350px;
+  }
+
+  .cora {
+    margin-top: -200px !important;
+  }
+
+  .blur {
+    display: none;
+  }
+
+  .btneletro {
+    font-size: 18px;
+  }
+
+  .drt {
+    flex-direction: column-reverse;
+  }
+
+  .box {
+    justify-content: center;
+  }
+
+  .eletrolaudo-1 {
+    padding: 300px 0;
+  }
+
+  .eletrolaudo-2 {
+    padding: 0;
+  }
+
+  .eletrolaudo-2 h5 {
+    margin-bottom: 25px;
+  }
+
+  .eletrolaudo-3 p {
+    text-align: center;
+  }
+
+  .eletrolaudo-4 {
+    padding: 0;
+  }
+
+  .eletrolaudo-8 .btneletro {
+    display: none;
+  }
+
+  .eletrolaudo-9 {
+    padding: 0;
+  }
+
+  .rdpinfos {
+    display: block !important;
+  }
+
+  .planos-caixa {
+    margin: 20px 0;
+  }
+
+}
+
