@@ -84,5 +84,18 @@
     margin: 20px 0;
   }
 
+  .logo-rodape {
+    border: 1px solid red;
+    margin-bottom: 20px;
+  }
+
+  .rodape .px-5 {
+    padding: 0 !important;
+  }
+
+  .selo {
+    margin: 0;
+    max-width: 300px;
+  }
 }
 
